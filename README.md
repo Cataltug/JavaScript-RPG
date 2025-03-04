@@ -1,5 +1,5 @@
 # JavaScript Role Playing Game (RPG)
-## This is a simple Role Playing Game (RPG) built in JavaScript as part of the JavaScript Algorithms and Data Structures certification on freeCodeCamp. The project demonstrates fundamental programming concepts, including:
+#### This is a simple Role Playing Game (RPG) built in JavaScript as part of the JavaScript Algorithms and Data Structures certification on freeCodeCamp. The project demonstrates fundamental programming concepts, including:
 
 1. Arrays 📋
 2. Strings 🔤
